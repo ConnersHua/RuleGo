@@ -1,0 +1,24 @@
+# bilibili
+DOMAIN,api.bilibili.com
+
+# ByteDance
+DOMAIN-KEYWORD,-normal-lq.amemv.com
+DOMAIN-KEYWORD,-normal-c-lq.amemv.com
+DOMAIN,ib.snssdk.com
+# (Web)
+DOMAIN,www.douyin.com
+
+# Kuwo
+DOMAIN,ip.i.kuwo.cn
+
+# Xiaohongshu
+DOMAIN,edith.xiaohongshu.com
+
+# Weibo
+DOMAIN,api.weibo.cn
+# (Web)
+DOMAIN,www.weibo.com
+DOMAIN,s.weibo.com
+
+# Zhihu
+DOMAIN,api.zhihu.com
