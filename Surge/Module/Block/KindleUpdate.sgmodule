@@ -1,0 +1,6 @@
+#!name=Block Kindle Update
+#!desc=屏蔽 Kindle 客户端更新
+
+[Rule]
+DOMAIN,kindleformac.s3.amazonaws.com,REJECT
+DOMAIN,kindleforpc.s3.amazonaws.com,REJECT
