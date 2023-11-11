@@ -1,0 +1,9 @@
+#!name=解锁 AbeamTV
+#!desc=解锁 AbeamTV 应用播放限制
+
+[URL Rewrite]
+# AbeamTV - api.*.abema-tv.com
+^https?:\/\/api\.[\w-]+\.abema-tv\.com\/v\d\/ip\/check - reject
+
+[MITM]
+hostname = %APPEND% api.*.abema-tv.com
