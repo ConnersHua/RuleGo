@@ -1,0 +1,8 @@
+#!name=解锁 bilibili
+#!desc=解锁 bilibili intl 应用搜索限制
+
+[URL Rewrite]
+(^https:\/\/app\.bilibili\.com\/x\/v2\/search\?.+)mobi_app=iphone_i(.+) $1mobi_app=iphone$2 302
+
+[MITM]
+hostname = %APPEND% app.bilibili.com
