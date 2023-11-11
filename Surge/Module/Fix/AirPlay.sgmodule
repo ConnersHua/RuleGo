@@ -1,0 +1,5 @@
+#!name=Fix AirPlay
+#!desc=修复「AirPlay」投屏时找不到设备的问题
+
+[General]
+tun-excluded-routes = %APPEND% 239.255.255.250/32
