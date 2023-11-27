@@ -135,12 +135,6 @@ DOMAIN-SUFFIX,ott.hinet.net
 DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN,hls-hichannel.cdn.hinet.net
 DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
-# > HBO NOW & Max
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
 # > HBO Asia
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
@@ -206,6 +200,14 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 # > LiTV
 DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+# > Max
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,max.com
 # > My5
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
