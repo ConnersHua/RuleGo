@@ -4,8 +4,10 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN,api.statsig.com
 DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
 DOMAIN-KEYWORD,openaicom
 
 # > Claude
