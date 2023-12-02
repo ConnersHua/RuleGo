@@ -1,9 +1,10 @@
 # > WeChat
-DOMAIN,dl.wechat.com
-DOMAIN,sglong.wechat.com
-DOMAIN,sgminorshort.wechat.com
-DOMAIN,sgshort.wechat.com
-DOMAIN,tencentmap.wechat.com
+DOMAIN-SUFFIX,wechat.com,extended-matching
+# DOMAIN,dl.wechat.com
+# DOMAIN,sglong.wechat.com
+# DOMAIN,sgminorshort.wechat.com
+# DOMAIN,sgshort.wechat.com
+# DOMAIN,tencentmap.wechat.com
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
