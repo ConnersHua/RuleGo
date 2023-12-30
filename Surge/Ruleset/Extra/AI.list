@@ -14,8 +14,16 @@ DOMAIN-KEYWORD,openaicom
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
-# Google & Bard
+# > Google & Bard
 DOMAIN,bard.google.com
 
 # > JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
+
+# > Microsoft & Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+
+# > Meta
+DOMAIN,imagine.meta.com
