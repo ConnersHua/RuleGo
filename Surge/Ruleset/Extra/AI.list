@@ -1,4 +1,5 @@
 # > OpenAI & ChatGPT
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -14,7 +15,8 @@ DOMAIN-KEYWORD,openaicom
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
-# > Google & Bard
+# > Google & Gemini
+DOMAIN,gemini.google.com
 DOMAIN,bard.google.com
 
 # > JetBrains AI
