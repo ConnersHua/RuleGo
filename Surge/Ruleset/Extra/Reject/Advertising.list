@@ -591,6 +591,7 @@ DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 # --- (Alibaba) ---
+DOMAIN,hc-ssp.sm.cn
 DOMAIN,tunion-api.m.taobao.com
 # > YOUKU
 DOMAIN-SUFFIX,ad.youku.com
@@ -677,10 +678,6 @@ DOMAIN,logs.chelaile.net.cn
 DOMAIN,dispatcher.360in.com
 DOMAIN,ad.360in.com
 DOMAIN,exp.360in.com
-
-# (D)
-# > Douban
-AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
 
 # (G)
 # > Google
@@ -835,9 +832,8 @@ DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN,ads.snapchat.com
 DOMAIN,adsapi.snapchat.com
 # > Skyworth
-DOMAIN-SUFFIX,hoisin.coocaa.com
-DOMAIN-SUFFIX,hoisin.coocaatv.com
-DOMAIN,data-hoisin.coocaa.com
+DOMAIN-KEYWORD,hoisin.coocaa.com
+DOMAIN-KEYWORD,hoisin.coocaatv.com
 
 # (T)
 # --- (Tencent) ---
