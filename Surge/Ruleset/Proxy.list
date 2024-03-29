@@ -204,6 +204,7 @@ DOMAIN,cdn.statically.io
 DOMAIN,hub.docker.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
+DOMAIN,search.arc.net
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
