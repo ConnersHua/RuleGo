@@ -1,12 +1,19 @@
 # Telegram
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
 # > Americas
 IP-ASN,59930,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
