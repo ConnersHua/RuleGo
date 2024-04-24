@@ -2,13 +2,10 @@
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,archive.fo
-DOMAIN-SUFFIX,archive.is
-DOMAIN-SUFFIX,archive.org
-DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,ask.com
@@ -26,6 +23,7 @@ DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,clyp.it
 DOMAIN-SUFFIX,cna.com.tw
@@ -47,6 +45,7 @@ DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,encyclopedia.com
+DOMAIN-SUFFIX,evozi.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,feedly.com
@@ -55,18 +54,22 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
+DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githack.com
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,hiccears.com
 DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,huffpost.com
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,independent.co.uk
@@ -76,6 +79,7 @@ DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,justpaste.it
+DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,listennotes.com
@@ -89,6 +93,7 @@ DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mod.io
+DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,myspace.com
@@ -190,7 +195,7 @@ DOMAIN-SUFFIX,worldcat.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,x.co
-DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zello.com
@@ -205,6 +210,9 @@ DOMAIN,hub.docker.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,search.arc.net
+
+DOMAIN-KEYWORD,.archive.
+
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
@@ -278,6 +286,7 @@ DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.net
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com
@@ -357,14 +366,21 @@ DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN,store.steampowered.com
 # > Telegram
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
 # > Americas
 IP-ASN,59930,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
@@ -429,9 +445,11 @@ DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 # > Yahoo
 DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
 DOMAIN,search.yahoo.co.jp
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yandex.ru
 DOMAIN,disk.yandex.com
 
 # (Region-Restricted Access Denied)
@@ -439,6 +457,7 @@ DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,wowhead.com
+DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zoom.us
 DOMAIN,addons.mozilla.org
