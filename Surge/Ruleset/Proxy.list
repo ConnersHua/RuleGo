@@ -452,6 +452,10 @@ DOMAIN,search.yahoo.co.jp
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN,disk.yandex.com
+# > Z-Library
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sx
 
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,engadget.com
