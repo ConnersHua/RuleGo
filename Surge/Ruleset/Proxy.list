@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,anchor.fm
+DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,archive.md
@@ -39,6 +40,7 @@ DOMAIN-SUFFIX,deadline.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,devv.ai
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
@@ -73,6 +75,7 @@ DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,imageglass.org
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,inoreader.com
@@ -119,6 +122,7 @@ DOMAIN-SUFFIX,pastie.org
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,peing.net
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,poe.com
@@ -126,6 +130,7 @@ DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,privoxy.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,proxifier.com
+DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,qz.com
@@ -174,6 +179,7 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,typeset.io
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v2ex.com
@@ -194,6 +200,7 @@ DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,worldcat.org
+DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,x.co
