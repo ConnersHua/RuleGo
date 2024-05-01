@@ -1,0 +1,6 @@
+#!name=Prevent Netflix fallback to Originals Only
+#!desc=登录 Netflix 后再开启本模块
+
+[Rule]
+DOMAIN-SUFFIX,appboot.netflix.com,REJECT
+DOMAIN-SUFFIX,prod.cloud.netflix.com,REJECT
