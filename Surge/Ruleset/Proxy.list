@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,devv.ai
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,earthcam.com
@@ -215,7 +216,6 @@ DOMAIN-SUFFIX,zyxel.com
 
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.statically.io
-DOMAIN,hub.docker.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,search.arc.net
