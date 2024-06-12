@@ -466,8 +466,12 @@ DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN,disk.yandex.com
 # > Z-Library
+DOMAIN-SUFFIX,articles.sk
+DOMAIN-SUFFIX,go-to-library.sk
 DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.rs
+DOMAIN-SUFFIX,z-lib.gs
+DOMAIN-SUFFIX,z-library.rs
 
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,engadget.com
