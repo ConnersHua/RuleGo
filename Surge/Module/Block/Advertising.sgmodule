@@ -257,6 +257,7 @@
 # > Weidian - thor.weidian.com
 ^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/ - reject
 # > WallStCN - api-one.wallstcn.com,api-one-wscn.awtmt.com
+^https?:\/\/api-one-wscn\.awtmt\.com\/apiv\d\/advertising\/ - reject
 
 # X
 # > Xiachufang - api.xiachufang.com
