@@ -5,12 +5,20 @@ DOMAIN-SUFFIX,wechat.com,extended-matching
 # DOMAIN,sgminorshort.wechat.com
 # DOMAIN,sgshort.wechat.com
 # DOMAIN,tencentmap.wechat.com
+IP-CIDR,43.156.222.113/32,no-resolve
+IP-CIDR,43.156.222.152/32,no-resolve
+IP-CIDR,43.156.222.176/32,no-resolve
+IP-CIDR,43.156.222.205/32,no-resolve
+IP-CIDR,43.156.223.202/32,no-resolve
+IP-CIDR,43.156.255.184/32,no-resolve
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
+IP-CIDR,101.32.104.104/32,no-resolve
 IP-CIDR,101.32.118.25/32,no-resolve
 IP-CIDR,101.32.133.16/32,no-resolve
 IP-CIDR,101.32.133.53/32,no-resolve
 IP-CIDR,101.32.133.209/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
+IP-CIDR,129.226.107.59/32,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
