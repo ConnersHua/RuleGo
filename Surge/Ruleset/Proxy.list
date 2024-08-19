@@ -285,6 +285,8 @@ DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,yingwangtech.cloud
 # > Bybit
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bybdc6.com
@@ -472,7 +474,7 @@ DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zoom.us
 DOMAIN,addons.mozilla.org
-DOMAIN,c.mi.com
+DOMAIN,community.oneplus.com
 DOMAIN,wego.here.com
 # > Alphabet
 DOMAIN-SUFFIX,go.dev
@@ -486,6 +488,9 @@ DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,facetime.apple.com // FaceTime Links
 DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,radio.itunes.apple.com // Apple Music Radio
+# > Mi
+DOMAIN,c.mi.com
+DOMAIN,new.c.mi.com
 # > Web Preview
 DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
