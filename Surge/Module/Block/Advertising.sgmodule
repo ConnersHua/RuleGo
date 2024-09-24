@@ -48,7 +48,7 @@
 # B
 # ---(Baidu)---
 # > Baidu NetDisk - pan.baidu.com,issuecdn.baidupcs.com
-^https?:\/\/pan\.baidu\.com\/rest\/\d\.\d\/pcs\/adx - reject
+^https?:\/\/pan\.baidu\.com\/rest\/\d\.\d\/pcs\/ad(x|v) - reject
 ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry - reject
 ^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao - reject
 # > Baidu Map - newclient.map.baidu.com
