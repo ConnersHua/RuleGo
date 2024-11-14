@@ -46,3 +46,6 @@ DOMAIN,www.bing.com
 
 # Meta
 DOMAIN,imagine.meta.com
+
+# GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
