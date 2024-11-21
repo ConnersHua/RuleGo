@@ -1,7 +1,8 @@
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,backpack.exchange
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitflyer.com
-DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,coinbase.com
@@ -24,11 +25,17 @@ DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,yingwangtech.cloud
+# > Bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.site
 # > Bybit
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 # > OKX
 DOMAIN-SUFFIX,okx.com
