@@ -35,6 +35,8 @@ DOMAIN,proactivebackend-pa.googleapis.com
 # > AI Studio
 DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+# > Search Labs
+DOMAIN-KEYWORD,labs.google
 
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
