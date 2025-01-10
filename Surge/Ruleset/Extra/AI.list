@@ -37,6 +37,8 @@ DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 # > Search Labs
 DOMAIN-KEYWORD,labs.google
+# > NotebookLM
+DOMAIN-KEYWORD,notebooklm.google
 
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
