@@ -17,7 +17,7 @@ DOMAIN,update.googleapis.com
 # > Google Flights
 DOMAIN-SUFFIX,googletraveladservices.com
 # > Firebase Cloud Messaging
-DOMAIN-WILDCARD *mtalk*.google.com
+DOMAIN-WILDCARD,*mtalk*.google.com
 # ------
 # > Tencent
 DOMAIN,fairplay.l.qq.com
