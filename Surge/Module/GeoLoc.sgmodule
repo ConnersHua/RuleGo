@@ -7,11 +7,8 @@
 URL-REGEX,https:\/\/api\.bilibili\.com\/x\/v\d\/reply\/add
 
 # ByteDance
-DOMAIN-KEYWORD,-normal-lq.amemv.com
-DOMAIN-KEYWORD,-normal-c-lq.amemv.com
-URL-REGEX,https:\/\/ib\.snssdk\.com\/\d\/data\/v\d\/post_message\/
-# (Web)
-DOMAIN,www.douyin.com
+# (TouTiao)
+DOMAIN,ib.snssdk.com,
 
 # Kuwo
 DOMAIN,ip.i.kuwo.cn
@@ -32,4 +29,4 @@ URL-REGEX,https:\/\/api\.zhihu\.com\/answers
 URL-REGEX,https:\/\/api\.zhihu\.com\/comment_v\d\/answers\/\d+\/comment
 
 [MITM]
-hostname = %APPEND% tieba.baidu.com, tiebac.baidu.com, api.bilibili.com, ib.snssdk.com, api.weibo.cn, weibo.com
+hostname = %APPEND% tieba.baidu.com, tiebac.baidu.com, api.bilibili.com, api.weibo.cn, weibo.com
