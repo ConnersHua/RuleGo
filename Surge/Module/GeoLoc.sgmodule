@@ -8,13 +8,13 @@ URL-REGEX,https:\/\/api\.bilibili\.com\/x\/v\d\/reply\/add
 
 # ByteDance
 # (TouTiao)
-DOMAIN,ib.snssdk.com,
+DOMAIN,ib.snssdk.com
 
 # Kuwo
 DOMAIN,ip.i.kuwo.cn
 
 # Xiaohongshu
-DOMAIN,edith.xiaohongshu.com
+DOMAIN,edith.xiaohongshu.com,extended-matching
 
 # Weibo
 URL-REGEX,https:\/\/api\.weibo\.cn\/\d\/comments\/(create|reply)
