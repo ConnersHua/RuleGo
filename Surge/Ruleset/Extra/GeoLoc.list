@@ -2,8 +2,6 @@
 DOMAIN,api.bilibili.com
 
 # ByteDance
-DOMAIN-KEYWORD,-normal-lq.amemv.com
-DOMAIN-KEYWORD,-normal-c-lq.amemv.com
 DOMAIN,ib.snssdk.com
 # (Web)
 DOMAIN,www.douyin.com

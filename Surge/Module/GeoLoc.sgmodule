@@ -29,4 +29,4 @@ URL-REGEX,https:\/\/api\.zhihu\.com\/answers
 URL-REGEX,https:\/\/api\.zhihu\.com\/comment_v\d\/answers\/\d+\/comment
 
 [MITM]
-hostname = %APPEND% tieba.baidu.com, tiebac.baidu.com, api.bilibili.com, api.weibo.cn, weibo.com
+hostname = %APPEND% api.bilibili.com, api.weibo.cn, weibo.com
