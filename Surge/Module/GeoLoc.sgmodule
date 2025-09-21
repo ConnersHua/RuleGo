@@ -1,12 +1,18 @@
 #!name=GeoLoc
 #!desc=仅用于改变归属地显示，模块添加后自行添加规则，如：RULE-SET,GeoLoc,PROXY
 
+[Rule]
+AND,((DOMAIN-KEYWORD,amemv.com,extended-matching), (PROTOCOL,UDP)),REJECT
+
 [Ruleset GeoLoc]
 
 # bilibili
 URL-REGEX,https:\/\/api\.bilibili\.com\/x\/v\d\/reply\/add
 
 # ByteDance
+# (Amemv)
+DOMAIN-KEYWORD,-core-hl.amemv.com,extended-matching
+DOMAIN-KEYWORD,-core-lf.amemv.com,extended-matching
 # (TouTiao)
 DOMAIN,ib.snssdk.com
 
