@@ -43,3 +43,4 @@ DOMAIN-SUFFIX,wsot2022.com
 # > OKX
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN-KEYWORD,okx-dns
