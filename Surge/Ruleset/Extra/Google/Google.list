@@ -1,7 +1,9 @@
 # > Alphabet
-# DOMAIN-SUFFIX,ampproject.org
-DOMAIN,goog
+DOMAIN-SUFFIX,gle
+DOMAIN-SUFFIX,goog
 
+DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
