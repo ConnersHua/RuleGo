@@ -1,0 +1,14 @@
+# > Alphabet
+# DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,tenor.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,.blogspot.
+
+GEOIP,GOOGLE,no-resolve
