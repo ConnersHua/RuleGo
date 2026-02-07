@@ -21,18 +21,20 @@ DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bsky.app
-DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,cachefly.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,chatpdf.com
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,clyp.it
@@ -55,6 +57,7 @@ DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,earthcam.com
@@ -67,6 +70,7 @@ DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flitto.com
+DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,generated.photos
@@ -75,6 +79,7 @@ DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githack.com
+DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,glarity.app
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,goodreads.com
@@ -101,6 +106,7 @@ DOMAIN-SUFFIX,justpaste.it
 DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,mailchimp.com
@@ -110,6 +116,7 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mod.io
 DOMAIN-SUFFIX,monica.im
@@ -117,12 +124,14 @@ DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,netsarang.com
 DOMAIN-SUFFIX,newstatesman.com
 DOMAIN-SUFFIX,newsweek.com
 DOMAIN-SUFFIX,newyorker.com
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,omny.fm
@@ -137,7 +146,9 @@ DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,peing.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,player.fm
+DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,podbean.com
+DOMAIN-SUFFIX,podwise.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,privoxy.org
@@ -153,6 +164,7 @@ DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,search.com
@@ -173,6 +185,7 @@ DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,swissinfo.ch
+DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,tapatalk.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,textnow.me
@@ -191,6 +204,7 @@ DOMAIN-SUFFIX,tiny.cc
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tortoisesvn.net
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,typeset.io
@@ -223,7 +237,6 @@ DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
 
@@ -360,6 +373,7 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
@@ -453,6 +467,7 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikimediafoundation.org
 DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
@@ -483,11 +498,11 @@ DOMAIN-SUFFIX,yandex.ru
 DOMAIN,disk.yandex.com
 # > Z-Library
 DOMAIN-SUFFIX,articles.sk
+DOMAIN-SUFFIX,articles.sk
 DOMAIN-SUFFIX,go-to-library.sk
-DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,singlelogin.rs
-DOMAIN-SUFFIX,z-lib.gs
-DOMAIN-SUFFIX,z-library.rs
+DOMAIN-SUFFIX,z-library.sk
 
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,cnbeta.com.tw
