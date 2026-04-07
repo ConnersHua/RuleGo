@@ -2,37 +2,35 @@
 #!desc=仅用于改变归属地显示，模块添加后自行添加规则，如：RULE-SET,GeoLoc,PROXY
 
 [Rule]
-AND,((DOMAIN-KEYWORD,amemv.com,extended-matching), (PROTOCOL,UDP)),REJECT
-
-[Ruleset GeoLoc]
 
 # bilibili
-URL-REGEX,https:\/\/api\.bilibili\.com\/x\/v\d\/reply\/add
+URL-REGEX,https:\/\/api\.bilibili\.com\/x\/v\d\/reply\/add,{{{Proxy}}}
 
 # ByteDance
 # (Amemv)
-DOMAIN-KEYWORD,-core-hl.amemv.com,extended-matching
-DOMAIN-KEYWORD,-core-lf.amemv.com,extended-matching
+AND,((DOMAIN-KEYWORD,amemv.com,extended-matching), (PROTOCOL,UDP)),REJECT
+DOMAIN-KEYWORD,-core-hl.amemv.com,{{{Proxy}}},extended-matching
+DOMAIN-KEYWORD,-core-lf.amemv.com,{{{Proxy}}},extended-matching
 # (TouTiao)
-DOMAIN,ib.snssdk.com
+DOMAIN,ib.snssdk.com,{{{Proxy}}}
 
 # Kuwo
-DOMAIN,ip.i.kuwo.cn
+DOMAIN,ip.i.kuwo.cn,{{{Proxy}}}
 
 # Xiaohongshu
-DOMAIN,edith.xiaohongshu.com,extended-matching
+DOMAIN,edith.xiaohongshu.com,{{{Proxy}}},extended-matching
 
 # Weibo
-URL-REGEX,https:\/\/api\.weibo\.cn\/\d\/comments\/(create|reply)
-URL-REGEX,https:\/\/weibo\.com\/ajax\/comments\/create
-URL-REGEX,https:\/\/api\.weibo\.cn\/\d\/statuses\/send
+URL-REGEX,https:\/\/api\.weibo\.cn\/\d\/comments\/(create|reply),{{{Proxy}}}
+URL-REGEX,https:\/\/weibo\.com\/ajax\/comments\/create,{{{Proxy}}}
+URL-REGEX,https:\/\/api\.weibo\.cn\/\d\/statuses\/send,{{{Proxy}}}
 # (Web)
-DOMAIN,www.weibo.com
-DOMAIN,s.weibo.com
+DOMAIN,www.weibo.com,{{{Proxy}}}
+DOMAIN,s.weibo.com,{{{Proxy}}}
 
 # Zhihu
-URL-REGEX,https:\/\/api\.zhihu\.com\/answers
-URL-REGEX,https:\/\/api\.zhihu\.com\/comment_v\d\/answers\/\d+\/comment
+URL-REGEX,https:\/\/api\.zhihu\.com\/answers,{{{Proxy}}}
+URL-REGEX,https:\/\/api\.zhihu\.com\/comment_v\d\/answers\/\d+\/comment,{{{Proxy}}}
 
 [MITM]
-hostname = %APPEND% api.bilibili.com, api.weibo.cn, weibo.com
+hostname = %APPEND% api.bilibili.com, api.weibo.cn, weibo.com, api.zhihu.com
