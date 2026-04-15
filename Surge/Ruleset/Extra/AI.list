@@ -43,6 +43,9 @@ DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 
+# Zed
+DOMAIN-SUFFIX,zed.dev
+
 # Google
 # > AI Studio
 DOMAIN-SUFFIX,generativeai.google
