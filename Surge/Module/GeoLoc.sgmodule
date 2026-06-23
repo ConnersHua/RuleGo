@@ -1,6 +1,6 @@
 #!name=GeoLoc
 #!desc=仅用于改变归属地显示，模块添加后请在 arguments 更改策略组
-#!arguments=Proxy:PROXY,可选 Twitter:RULE-SET,Twitter:DIRECT
+#!arguments=Proxy:PROXY,可选 Twitter:RULE-SET,Twitter:PROXY
 #!arguments-desc=可选 Twitter：输入 # 可禁用
 
 [Rule]
