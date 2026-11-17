@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,grazie.ai
 
 # Meta
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-WILDCARD,scontent-*.xx.fbcdn.net
 DOMAIN,graph.facebook.com
 DOMAIN,imagine.meta.com
